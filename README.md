@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-In this project, we will build a machine learning model to predict the presence of heart disease in patients based on various health metrics.
+In this project, I will build a machine learning model to predict the presence of heart disease in patients based on various health metrics.
 The model will be trained on a dataset containing patient information and their heart disease status.
 The goal is to accurately classify whether a patient has heart disease (1) or not (0) based on the input features.
 
